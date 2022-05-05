@@ -79,10 +79,6 @@ http://ott3.alwaysdata.net/live/lv.php?id=88
 http://ott3.alwaysdata.net/live/lv.php?id=60
 
 
-
-#EXTM3U
-
-#EXTM3U 
 #EXTINF:-1 group-title="ADULT",Extacy4K
 http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1 group-title="ADULT",HUSTLER HD
@@ -273,7 +269,6 @@ https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1 - 一本道11
 http://185.96.176.139:8080/superone/index.m3u8
 #EXTINF:-1 group-title="ADULT", Porn 1
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-
 
 #EXTINF:-1 group-title="ADULT", OTT AVTV 1
 http://ott3.alwaysdata.net/live/av-tv.php?ch=1
