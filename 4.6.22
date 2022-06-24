@@ -9719,4 +9719,11 @@ http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1564/index.m3u8
 http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1567/index.m3u8
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="XXX",Beautiful TSUJIMOTO 1
+https://video.twimg.com/amplify_video/1097081397460709376/vid/1280x720/mMZUovcBzhedKuA7.mp4?tag=9
+#EXTINF:0 tvg-id="ext" group-title="XXX",Beautiful TSUJIMOTO 2
+https://video.twimg.com/amplify_video/1097081397569679360/vid/1280x720/ad-fsAELOpIjpPIN.mp4?tag=9
+#EXTINF:0 tvg-id="ext" group-title="XXX",Beautiful TSUJIMOTO 3
+https://video.twimg.com/amplify_video/1097081397892636672/vid/1280x720/GXLyqkfI7kepID6y.mp4?tag=9
+#EXTINF:0 tvg-id="ext" group-title="XXX",Beautiful TSUJIMOTO 4
+https://video.twimg.com/amplify_video/1097081398182129666/vid/1280x720/9_hTlAaL2ZaZQxUG.mp4?tag=9
