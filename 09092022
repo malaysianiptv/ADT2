@@ -173,8 +173,7 @@ http://109.200.130.123:7032/play/a00g
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="ADULT",FTV Secrets to Midnight LQ
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 group-title="ADULT",FTV Secrets to Midnight FHD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 group-title="ADULT",Miami Jenny 1
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="ADULT",Miami Jenny 2
@@ -11227,3 +11226,68 @@ http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/11856.mp4
 #EXTINF:-1 ," group-title="new-masukvide0" ,ZTOD
 http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/16757.mp4
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aROihKho_9Q/maxresdefault.jpg" group-title=" (VIVAMAX)",#DoYouThinkIAmSexy (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/DYTIS%202022.mkv
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/p57ge_4f.jpg" group-title=" (VIVAMAX)",Pusoy (2022)
+https://ia601503.us.archive.org/20/items/Pusoy/Pusoy.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUzMmRiNzktZjZkMC00OTRlLWIzYWMtNzk4MDhkMDNiMGViXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Kaliwaan (2022)
+https://ia801406.us.archive.org/25/items/Kaliwaan/Kaliwaan.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTEyYjMxMzktYmQ4Yi00YWMxLTkyZDMtMzc0MmYzYTJhNjc4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Kitty K7 (2022)
+https://ia802503.us.archive.org/21/items/kitty-k-7/Kitty%20K7.mp4
+#EXTINF:-1 tvg-logo="https://thefanboyseo.com/wp-content/uploads/2022/01/silip-sa-apoy-e1642572880387.jpg" group-title=" (VIVAMAX)",Silip Sa Apoy (2022)
+https://ia601504.us.archive.org/32/items/silip-sa-apoy_202208/Silip%20sa%20Apoy.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVlMDNlOWYtNDNjNi00NjJiLTljOTQtNGNkOTRmODNlZGJiXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg" group-title=" (VIVAMAX)",Biyak ( 2022)
+https://ia801403.us.archive.org/32/items/biyak-2022/Biyak%20%282022%29.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w780/62NoHEb50NUlGtB8dfIB9UHhxlX.jpg" group-title=" (VIVAMAX)",Ang Babaeng Nawawala sa Sarili (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Ang.Babaeng.Nawawala.Sa.Sarili.2022.1080p.VMAX.WEB-DL.AAC2.0.x264.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA5N2NmNjMtMmYwYi00OTQzLThmNDktYzk0YmYwYTg5NDlhXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg" group-title=" (VIVAMAX)",Bula (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Bula.2022.1080p.WEB-DL.AAC2.0.x2644.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/70NXUPxx1SQvrnlm19j0z1vqwqA.jpg" group-title=" (VIVAMAX)",Hugas (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/HUGAS%20-%20Viva%20Films%202022%20720p%20PMH.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI1MjE2ZjctYzVlYi00ZjNhLTlhNTgtMTJlYTJmYTI0YTQ2XkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg" group-title=" (VIVAMAX)",The Influencer (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/The.Influencer.2022.1080p.VMAX.WEB-DL.AAC2.0.x264.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/s4oOLgH5zcwlaQHmHY5diSwiPVO.jpg" group-title=" (VIVAMAX)",Sitio Diablo (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Sitio.Diablo.2022.1080p.VMAX.WEB-DL.AAC2.0.x264.mkv
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/c2/1a/e7/c21ae7ca-ed2f-edfc-8613-43ba4bca13e4/cover.jpg/1200x1200bf-60.jpg" group-title=" (VIVAMAX)",The Wife (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/The_Wife_(2022)_Full_HD720p-WEBRIP-Pinoymoviepedia.mp4
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/26WqR_4c.jpg" group-title=" (VIVAMAX)",Lampas Langit (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Lampas%20Langit%202022%201080p%20WEB-DL%20AAC2%200%20x264.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMjE3NzQtYjk4Yi00ZDE4LThlOTMtOWIwNzE2NDVhYzFlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Purificacion (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Purificacion.2022.WEB-DL.720p-.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9POEgz4.jpg" group-title=" (VIVAMAX)",Scorpio Nights 3 (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Scorpio.Nights.3.2022.WEB-DL.1080p.x264.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXErg7z.jpg" group-title=" (VIVAMAX)",TAHAN (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/TAH%201080p.mkv
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/wpl18_4f.jpg" group-title=" (VIVAMAX)",Breathe Again (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/BA.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgxYjI1MzgtM2NiZi00NzdhLWFkYWUtMDc5M2I5YWM1MGIwXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg" group-title=" (VIVAMAX)",Island of Desire (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/IOD.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI4MWMyZDUtNmUzZC00MjBhLTg3MjQtOTY3MzhiOWNmYjg2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg" group-title=" (VIVAMAX)",X-Deal (2022)
+https://onedrive.live.com/download?cid=BE554FC7312C0460&resid=BE554FC7312C0460%21114&authkey=ALWzsufAPa4FZ1o
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOThmNDI3YTEtZjg3Ni00MDY3LTk5MWQtNDk4MzlmZTNkY2YwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Adarna Gang (2022)
+https://onedrive.live.com/download?cid=E72DB9AEED07B8D6&resid=E72DB9AEED07B8D6%21113&authkey=AHzixC9s-h05bMU
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDExNGI1ODktOWZkZi00M2FjLThkYTYtMjQxNjRiOGIxNjdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Kinsenas Katapusan (2022)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Kinsenas.Katapusan.2022.VMAX.HDRip.720p.x264.AAC-EmEsKyu.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWFlN2U0YTAtMjI5Yi00ODNmLTkwNTAtOWQ0MDRjMDgyZmUzXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg" group-title=" (VIVAMAX)",Siklo (2022)
+https://onedrive.live.com/download?cid=72189F848354FB45&resid=72189F848354FB45%21107&authkey=AMAlSXqgfE5CIOk
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bSphZKLaVtw/YUVLXm2kpYI/AAAAAAAAi1g/0yA44VIV6-owH6z0CaPLI_yTI2sGUBRVACLcBGAsYHQ/s2048/bekis%2Bon%2Bthe%2Brun.jpg" group-title=" (VIVAMAX)",Bekis on the Run (2021)
+https://archive.org/download/kamandag.-2018/Bekis.On.The.Run.2021.1080p.WEB-DL.AAC.2.0.x264.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMThiNTBhZTctMDQxZC00MzI5LWJmMjEtZDRkNjIwNGExYmZlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Eva (2021)
+https://shy-salad-d414.nickflexmvx.workers.dev/0:/VIVAMAX%20/Eva.2021.720p.WEB-DL.AAC.x264.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUyZDM0NTMtOTYyMC00MmMxLTk2ZTMtYmRjZDMzOTlhOGNmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Shoot Shoot (2021)
+https://archive.org/download/paano-kung/Shoot.Shoot.2021.1080p.VMX.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA0NWZhOTMtMzhiZS00NTZhLTgzODUtMzA2NzI0N2M3OGI4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",The Housemaid (2021)
+https://archive.org/download/20210903065451/Ang.Katulong.2021.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZlYmZjNTMtNTM5NC00NTRmLWEyODgtZWQ5NjcxMzY0YjBkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",69 + 1 (2021)
+https://archive.org/download/SeksteNaynPlasWan/69.Plus.1.2021-720.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTExMGIwZDMtM2YzZC00YzgwLTg0NDUtNmNiMmRjMmQ3YjE5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg" group-title=" (VIVAMAX)",Silab (2021)
+https://archive.org/download/silab.-2021-841599-wd-720/Silab.2021-841599-WD-720.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNjZDc3ZjItNDQ0OS00NGMyLWFkN2EtMDhmMjdiMjE5NTRlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title=" (VIVAMAX)",Kaka (2021)
+https://archive.org/download/kaka.-2021-tt-14909590-wd-720/Kaka.2021-tt14909590-WD-720.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2kAf98gpsELgOVNvyZAVpFVkxHn.jpg" group-title=" (VIVAMAX)",The Other Wife (2021)
+https://archive.org/download/the.-other.-wife.-2021-848492-wd-720/The.Other.Wife.2021-848492-WD-720.mkv
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/rn1Zg_3s.jpg" group-title=" (VIVAMAX)",Ang Babaeng Walang Pakiramdam (2021)
+https://archive.org/download/ang.-babaeng.-walang.-pakiramdam.-2021-tt-14859258-wd-720/Ang.Babaeng.Walang.Pakiramdam.2021-tt14859258-WD-720.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE0MTU4NjgtZTJiZS00NzVkLWEwNDMtZWEzZjU2ODEzM2VlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX200_CR0,0,200,200_AL_.jpg" group-title=" (VIVAMAX)",Mahjong Nights (2021)
+https://dl.dropboxusercontent.com/s/wmdv7b5xwyj9n8g/Mahjong.Nights.2021.1080p.WEB-DL.AAC2.0.X265.HEVC-PHC-Melchor.mkv?dl=0
