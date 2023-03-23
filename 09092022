@@ -9511,3 +9511,8 @@ http://5.61.54.61/iptv/ZLN8HEA4NGEAAS/18138/index.m3u8
 http://5.61.54.61/iptv/ZLN8HEA4NGEAAS/19401/index.m3u8
 #EXTINF:-1 group-title="NO VPN PREMIUM LIVE TV 230323" tvg-id="6854" tvg-logo="http://epg.it999.ru/img2/6854.png" tvg-rec="0",SKY_HIGH_SEX_VR
 http://5.61.54.61/iptv/ZLN8HEA4NGEAAS/19406/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Amador Gay 230323",gay
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/1336670
