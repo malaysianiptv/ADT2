@@ -9677,3 +9677,6 @@ https://videocdnbaidu.rhsj520.com/rbny/20180901/aymly/LXVS-036/index.m3u8
 
 #EXTINF:-1 tvg-id="3221" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3221.png" group-title="Canais | Adulto",Sex With Muslims
 http://k46lwgcj.akciatv.ru/iptv/P5SADA44UBQWVR/6252/index.m3u8
+
+#EXTINF:-1 group-title="Canais | Adulto123" tvg-id="3221" tvg-logo="http://epg.it999.ru/img/3221.png" tvg-rec="0",Sex With Muslims
+http://5.61.54.61/iptv/ZLN8HEA4NGEAAS/6252/index.m3u8
